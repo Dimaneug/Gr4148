@@ -1,0 +1,15 @@
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task02/obj/Debug/net7.0/Sem1Task02.csproj.AssemblyReference.cache
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task02/obj/Debug/net7.0/Sem1Task02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task02/obj/Debug/net7.0/Sem1Task02.AssemblyInfoInputs.cache
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task02/obj/Debug/net7.0/Sem1Task02.AssemblyInfo.cs
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task02/obj/Debug/net7.0/Sem1Task02.csproj.CoreCompileInputs.cache
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task02/bin/Debug/net7.0/Sem1Task02
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task02/bin/Debug/net7.0/Sem1Task02.deps.json
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task02/bin/Debug/net7.0/Sem1Task02.runtimeconfig.json
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task02/bin/Debug/net7.0/Sem1Task02.dll
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task02/bin/Debug/net7.0/Sem1Task02.pdb
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task02/obj/Debug/net7.0/Sem1Task02.dll
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task02/obj/Debug/net7.0/refint/Sem1Task02.dll
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task02/obj/Debug/net7.0/Sem1Task02.pdb
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task02/obj/Debug/net7.0/Sem1Task02.genruntimeconfig.cache
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task02/obj/Debug/net7.0/ref/Sem1Task02.dll

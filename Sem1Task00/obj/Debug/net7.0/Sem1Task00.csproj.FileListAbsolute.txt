@@ -1,0 +1,15 @@
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task00/bin/Debug/net7.0/Sem1Task00
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task00/bin/Debug/net7.0/Sem1Task00.deps.json
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task00/bin/Debug/net7.0/Sem1Task00.runtimeconfig.json
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task00/bin/Debug/net7.0/Sem1Task00.dll
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task00/bin/Debug/net7.0/Sem1Task00.pdb
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task00/obj/Debug/net7.0/Sem1Task00.csproj.AssemblyReference.cache
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task00/obj/Debug/net7.0/Sem1Task00.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task00/obj/Debug/net7.0/Sem1Task00.AssemblyInfoInputs.cache
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task00/obj/Debug/net7.0/Sem1Task00.AssemblyInfo.cs
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task00/obj/Debug/net7.0/Sem1Task00.csproj.CoreCompileInputs.cache
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task00/obj/Debug/net7.0/Sem1Task00.dll
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task00/obj/Debug/net7.0/refint/Sem1Task00.dll
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task00/obj/Debug/net7.0/Sem1Task00.pdb
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task00/obj/Debug/net7.0/Sem1Task00.genruntimeconfig.cache
+/Users/dmitry/Documents/GeekBrains/Gr4148/Sem1Task00/obj/Debug/net7.0/ref/Sem1Task00.dll
