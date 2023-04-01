@@ -1,4 +1,8 @@
-﻿string? firstNumberLine = Console.ReadLine();
+﻿// Напишите программу, которая на вход принимает 
+// два числа и проверяет, является ли первое число
+// квадратом второго
+
+string? firstNumberLine = Console.ReadLine();
 string? secondNumberLine = Console.ReadLine();
 
 if (firstNumberLine != null && secondNumberLine != null) {
