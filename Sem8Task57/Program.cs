@@ -43,6 +43,7 @@ void Print2DArray(int[,] arr)
     }
 }
 
+// Создаёт частотный словарь
 int[] CreateFrequencyArr(int[,] arr, int count)
 {
     int[] frequencyArr = new int[count];
