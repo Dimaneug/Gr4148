@@ -7,46 +7,20 @@ int ReadData(string msg)
     return int.Parse(Console.ReadLine() ?? "0");
 }
 
-// Генерация двумерного массива
-int[,] Gen2DArraySpirally(int n)
+// Генерация двумерного спиралевидного массива 
+void Gen2DArraySpirally(int[,] arr, int count = 1, int val = 1)
 {
-    int[,] res = new int[n,n];
-    int val = 1;
-    int rowStart = 0;
-    int rowEnd = n - 1;
-    int colStart = 0;
-    int colEnd = n - 1;
-    while (val <= n*n)
-    {
-        for (int i = colStart; i <= colEnd; i++)
-        {
-            res[rowStart, i] = val;
-            val++;
-        }
-        rowStart++;
-
-        for (int i = rowStart; i <= rowEnd; i++)
-        {
-            res[i, colEnd] = val;
-            val++;
-        }
-        colEnd--;
-
-        for (int i = colEnd; i >= colStart; i--)
-        {
-            res[rowEnd, i] = val;
-            val++;
-        }
-        rowEnd--;
-
-        for (int i = rowEnd; i >= rowStart; i--)
-        {
-            res[i, colStart] = val;
-            val++;
-        }
-        colStart++;
-    }
-    return res;
+    int n = arr.GetLength(0);
+    for (int j = -1 + count; j < n - count + 1; j++)
+        arr[count - 1, j] = val++;
+    for (int i = count; i < n - count + 1; i++)
+        arr[i, n - count] = val++;
+    for (int j = n - count - 1; j > count - 2; j--)
+        arr[n - count, j] = val++;
+    for (int i = n - count - 1; i > count - 1; i--)
+        arr[i, count - 1] = val++;
+    if (val <= n*n)
+        Gen2DArraySpirally(arr, ++count, val);
 }
 
 // Печать двумерного массива
@@ -63,6 +37,7 @@ void Print2DArray(int[,] arr)
 }
 
 int n = ReadData("Введите размерность массива: ");
-int[,] testArr = Gen2DArraySpirally(n);
+int[,] testArr = new int[n,n];
+Gen2DArraySpirally(testArr);
 Print2DArray(testArr);
 
